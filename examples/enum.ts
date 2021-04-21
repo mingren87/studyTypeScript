@@ -66,3 +66,5 @@ let a = Enum.A
 let nameOfA = Enum[a]
 console.log(nameOfA)
 console.log(typeof nameOfA)
+
+
